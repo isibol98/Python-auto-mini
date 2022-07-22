@@ -6,7 +6,5 @@
 !.vscode/extensions.json
 !.vscode/*.code-snippets
 
-connection.py
-school-database.py
-mysql-connector.py
+
 __pycache__
